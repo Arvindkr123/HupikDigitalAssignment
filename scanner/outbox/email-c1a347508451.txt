@@ -1,0 +1,18 @@
+Subject: A few initial website visibility observations
+
+Hello,
+
+We reviewed https://www.sydneyalliedhealth.com.au/balmain-physiotherapy and wanted to share a few initial observations:
+
+- Page title: Expert Physio in Balmain | Sydney Allied Health Clinic
+- Meta description: Looking for a trusted physiotherapist in Balmain? We offer personalised treatments for pain, injury recovery, and mobility at Sydney Allied Health.
+- H1 headings: PHYSIOTHERAPY
+- Structured data types: No JSON-LD schema types were detected
+- Visible page text: 1166 words
+- The mobile performance check was unavailable.
+- The page includes a phone number, a street address, and at least one H1 in its raw HTML.
+
+These are automated observations, not a full SEO or clinical review. Please check the page details before acting on them.
+
+Best,
+Hupik Digital

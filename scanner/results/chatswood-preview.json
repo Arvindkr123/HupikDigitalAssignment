@@ -1,0 +1,29 @@
+{
+  "url": "local-html:chatswood-preview",
+  "final_url": "local-html:chatswood-preview",
+  "source": "local_html_fixture",
+  "http_status": 0,
+  "title": "Harbourline Physio - Chatswood",
+  "meta_description": "Physiotherapy in Chatswood for sports injuries, back and neck pain, rehabilitation and dry needling.",
+  "h1": [
+    "Harbourline Physio - Chatswood"
+  ],
+  "schema_types": [
+    "Answer",
+    "FAQPage",
+    "MedicalBusiness",
+    "OpeningHoursSpecification",
+    "PostalAddress",
+    "Question"
+  ],
+  "schema_parse_errors": 0,
+  "phone_number_found": true,
+  "street_address_found": true,
+  "visible_word_count": 125,
+  "pagespeed": {
+    "status": "unavailable",
+    "mobile_performance_score": null,
+    "largest_contentful_paint_ms": null,
+    "error": "PageSpeed Insights requires a publicly reachable URL."
+  }
+}

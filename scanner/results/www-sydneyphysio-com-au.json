@@ -1,0 +1,32 @@
+{
+  "url": "https://www.sydneyphysio.com.au/",
+  "final_url": "https://www.sydneyphysio.com.au/",
+  "source": "remote",
+  "http_status": 200,
+  "title": "Sydney Physiotherapy – Sydney CBD physio clinic",
+  "meta_description": "Sydney Physiotherapy has been located in Sydney CBD for 25 years and during that time we havebuilt up a reputation as a trusted and experienced physio practice. At Sydney Physio we believe inproviding fast and effective management of all sports and musculoskeletal injuries. Our Sydneyphysio clinic is located in Sydney CBD a few minutes walk from Wynard Station and Martin Place.",
+  "h1": [
+    "Expertise Knowledge"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "EntryPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "ReadAction",
+    "SearchAction",
+    "WebPage",
+    "WebSite"
+  ],
+  "schema_parse_errors": 0,
+  "phone_number_found": true,
+  "street_address_found": false,
+  "visible_word_count": 356,
+  "pagespeed": {
+    "status": "unavailable",
+    "mobile_performance_score": null,
+    "largest_contentful_paint_ms": null,
+    "error": "PageSpeed Insights returned HTTP 429."
+  }
+}

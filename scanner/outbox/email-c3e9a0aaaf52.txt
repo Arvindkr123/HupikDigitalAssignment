@@ -1,0 +1,18 @@
+Subject: A few initial website visibility observations
+
+Hello,
+
+We reviewed https://www.sydneyphysio.com.au/ and wanted to share a few initial observations:
+
+- Page title: Sydney Physiotherapy – Sydney CBD physio clinic
+- Meta description: Sydney Physiotherapy has been located in Sydney CBD for 25 years and during that time we havebuilt up a reputation as a trusted and experienced physio practice. At Sydney Physio we believe inproviding fast and effective management of all sports and musculoskeletal injuries. Our Sydneyphysio clinic is located in Sydney CBD a few minutes walk from Wynard Station and Martin Place.
+- H1 headings: Expertise Knowledge
+- Structured data types: BreadcrumbList, EntryPoint, ImageObject, ListItem, Organization, ReadAction, SearchAction, WebPage, WebSite
+- Visible page text: 356 words
+- The mobile performance check was unavailable.
+- We could not find a street address in the page HTML.
+
+These are automated observations, not a full SEO or clinical review. Please check the page details before acting on them.
+
+Best,
+Hupik Digital

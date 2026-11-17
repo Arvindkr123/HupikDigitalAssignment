@@ -1,0 +1,42 @@
+{
+  "url": "https://cityphysio.com.au/",
+  "final_url": "https://cityphysio.com.au/",
+  "source": "remote",
+  "http_status": 200,
+  "title": "Physio Martin Place Sydney CBD | City Physio & Pilates",
+  "meta_description": "Physio and Pilates at 25 Martin Place since 1978. Sports injuries, back and neck pain, headache, dizziness and jaw pain. Book online.",
+  "h1": [
+    "Physiotherapist in Martin Place, Sydney CBD",
+    "Since 1978, in one postcode"
+  ],
+  "schema_types": [
+    "AggregateRating",
+    "City",
+    "ContactPoint",
+    "ExerciseAction",
+    "GeoCoordinates",
+    "LocalBusiness",
+    "MedicalBusiness",
+    "MedicalOrganization",
+    "MedicalTherapy",
+    "Offer",
+    "OfferCatalog",
+    "OpeningHoursSpecification",
+    "Organization",
+    "Person",
+    "PhysicalTherapy",
+    "PostalAddress",
+    "State",
+    "WebSite"
+  ],
+  "schema_parse_errors": 0,
+  "phone_number_found": true,
+  "street_address_found": true,
+  "visible_word_count": 1791,
+  "pagespeed": {
+    "status": "unavailable",
+    "mobile_performance_score": null,
+    "largest_contentful_paint_ms": null,
+    "error": "PageSpeed Insights returned HTTP 429."
+  }
+}

@@ -1,0 +1,68 @@
+/*
+Theme Name: Harbourline Locations
+Template: twentytwentyfive
+Version: 1.0.0
+*/
+
+:root {
+  --hlp-ink: #17333b;
+  --hlp-accent: #087c78;
+  --hlp-paper: #f5f8f6;
+}
+
+.hlp-location {
+  box-sizing: border-box;
+  color: var(--hlp-ink);
+  margin-inline: auto;
+  max-width: 70rem;
+  padding: clamp(1.5rem, 5vw, 4rem) 1.25rem;
+}
+
+.hlp-location h1,
+.hlp-location h2 {
+  color: var(--hlp-ink);
+  line-height: 1.15;
+}
+
+.hlp-location h1 {
+  font-size: clamp(2.25rem, 5vw, 4rem);
+  margin-block: 0 1.5rem;
+}
+
+.hlp-location section {
+  background: var(--hlp-paper);
+  border-radius: 0.75rem;
+  margin-block: 1rem;
+  padding: clamp(1.25rem, 3vw, 2rem);
+}
+
+.hlp-location a {
+  color: var(--hlp-accent);
+  text-underline-offset: 0.2em;
+}
+
+.hlp-book-button {
+  background: var(--hlp-accent);
+  border-radius: 0.4rem;
+  color: #fff !important;
+  display: inline-block;
+  font-weight: 700;
+  margin-block: 0.75rem;
+  padding: 0.85rem 1.2rem;
+  text-decoration: none;
+}
+
+.hlp-book-button:focus-visible,
+.hlp-location a:focus-visible {
+  outline: 3px solid #e6a700;
+  outline-offset: 3px;
+}
+
+.hlp-location dt {
+  font-weight: 700;
+  margin-block-start: 1rem;
+}
+
+.hlp-location dd {
+  margin-inline-start: 0;
+}

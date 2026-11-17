@@ -1,0 +1,26 @@
+﻿query,current_page,clicks,impressions,ctr,average_position,benchmark_ctr,relevance_multiplier,estimated_incremental_clicks,priority_score
+physio near me,https://harbourlinephysio.example/,32,12500,0.0026,17.8,0.05,1.0,593.00,593.00
+physiotherapist near me,https://harbourlinephysio.example/,84,9800,0.0086,14.3,0.05,1.0,406.00,406.00
+physio chatswood,https://harbourlinephysio.example/chatswood,250,4800,0.0521,6.88,0.12,1.2,391.20,391.20
+lower back stretches,https://harbourlinephysio.example/blog/5-stretches-for-lower-back-pain,366,8800,0.0416,8.2,0.12,0.5,345.00,345.00
+physio parramatta,https://harbourlinephysio.example/parramatta,55,3600,0.0153,11.2,0.05,1.2,150.00,150.00
+sports physio parramatta,https://harbourlinephysio.example/parramatta,28,1200,0.0233,9.4,0.12,1.2,139.20,139.20
+post surgery rehab physio,https://harbourlinephysio.example/services/post-surgery-rehab,6,2100,0.0029,18,0.05,1.2,118.80,118.80
+sports physio chatswood,https://harbourlinephysio.example/services/sports-injury,135,1900,0.0711,5.4,0.12,1.2,111.60,111.60
+back pain physio chatswood,https://harbourlinephysio.example/chatswood,42,1100,0.0382,8.5,0.12,1.2,108.00,108.00
+how long does a sprained ankle take to heal,https://harbourlinephysio.example/blog/sports-injury-guide,91,5400,0.0169,11.7,0.05,0.5,89.50,89.50
+dry needling chatswood,https://harbourlinephysio.example/chatswood,16,700,0.0229,9.8,0.12,1.2,81.60,81.60
+women's health physio parramatta,https://harbourlinephysio.example/services/womens-health,41,880,0.0466,7.9,0.12,1.2,77.52,77.52
+acl rehab physio sydney,https://harbourlinephysio.example/services/post-surgery-rehab,16,1500,0.0107,12.4,0.05,1.2,70.80,70.80
+physio open saturday chatswood,https://harbourlinephysio.example/chatswood,15,520,0.0288,9.1,0.12,1.2,56.88,56.88
+neck pain physio chatswood,https://harbourlinephysio.example/services/back-neck-pain,37,640,0.0578,6.2,0.12,1.2,47.76,47.76
+sports physio parramatta,https://harbourlinephysio.example/blog/sports-injury-guide,8,800,0.0100,13.6,0.05,1.2,38.40,38.40
+pelvic floor physio parramatta,https://harbourlinephysio.example/services/dry-needling,53,683,0.0776,6,0.12,1.2,34.75,34.75
+massage vs physio,https://harbourlinephysio.example/services/back-neck-pain,19,662,0.0287,9.7,0.12,0.5,30.22,30.22
+back pain physio chatswood,https://harbourlinephysio.example/services/back-neck-pain,25,950,0.0263,10.1,0.05,1.2,27.00,27.00
+shoulder pain physio,https://harbourlinephysio.example/services/post-surgery-rehab,9,611,0.0147,11.1,0.05,1.0,21.55,21.55
+dry needling chatswood,https://harbourlinephysio.example/services/dry-needling,145,1300,0.1115,4.6,0.12,1.2,13.20,13.20
+sciatica treatment chatswood,https://harbourlinephysio.example/blog/sports-injury-guide,1,166,0.0060,14.1,0.05,1.2,8.76,8.76
+physio willoughby,https://harbourlinephysio.example/services/sports-injury,4,216,0.0185,11,0.05,1.0,6.80,6.80
+best physio chatswood,https://harbourlinephysio.example/services/dry-needling,27,265,0.1019,5.4,0.12,1.2,5.76,5.76
+physio for headaches,https://harbourlinephysio.example/services/back-neck-pain,1,126,0.0079,15.1,0.05,1.0,5.30,5.30

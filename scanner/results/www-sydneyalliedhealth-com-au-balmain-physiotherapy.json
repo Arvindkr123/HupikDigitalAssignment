@@ -1,0 +1,22 @@
+{
+  "url": "https://www.sydneyalliedhealth.com.au/balmain-physiotherapy",
+  "final_url": "https://www.sydneyalliedhealth.com.au/balmain-physiotherapy",
+  "source": "remote",
+  "http_status": 200,
+  "title": "Expert Physio in Balmain | Sydney Allied Health Clinic",
+  "meta_description": "Looking for a trusted physiotherapist in Balmain? We offer personalised treatments for pain, injury recovery, and mobility at Sydney Allied Health.",
+  "h1": [
+    "PHYSIOTHERAPY"
+  ],
+  "schema_types": [],
+  "schema_parse_errors": 0,
+  "phone_number_found": true,
+  "street_address_found": true,
+  "visible_word_count": 1166,
+  "pagespeed": {
+    "status": "unavailable",
+    "mobile_performance_score": null,
+    "largest_contentful_paint_ms": null,
+    "error": "PageSpeed Insights returned HTTP 429."
+  }
+}
